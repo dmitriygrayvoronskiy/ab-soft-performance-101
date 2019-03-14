@@ -1,0 +1,36 @@
+Testing Strategy
+Document Profile
+ID # 1
+Revision - 1
+Date 3/14/19
+Recipients - For Business and product owners, project manager
+Author - Dmitriy Grayvoronskiy
+Contacts - dmitriy.grayvoronskiy@od.anything3d.com
+
+System Description
+	This system partially represent common logic elements of e-commerce systems. It contains 3 services:
+      Authentication service
+      Product service - for choosing product
+      Cart service - for putting products into the cart
+Performance Test Objectives
+     Intended audience: product owner of e-commerce system, customers, system administrators, content managers
+     Start time: when all functional test cases are passed and a test environment is provided
+     Expectations: To achieve the fast system response
+     Success criteria of the project: when all KPIs are achieved
+Risks
+     Risk of network/hardware failure.
+      
+Audience
+     stakeholders
+     developers
+     QA engineers
+	
+Success criteria of the project
+     Performance of project met defined criteria.
+     Expected Outputs
+     High-level test report containing graphics and table of test results as well as advises to increase performance and meet KPI in time.
+KPI
+    Response time
+    Throughput 
+    Downtime
+  	Availability
